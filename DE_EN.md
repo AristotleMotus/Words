@@ -17,4 +17,5 @@
 |bitte|please/am begging/ask|
 |und|and/or|
 |oder|or/should you/are we|
+
 ||||||
